@@ -1,0 +1,27 @@
+{
+  "name": "prisma-nodejs-connection",
+  "version": "1.0.0",
+  "description": "Basic Example of PostgreSQL Database and Nodejs Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin322s/prisma-nodejs-connection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Martin322s/prisma-nodejs-connection/issues"
+  },
+  "homepage": "https://github.com/Martin322s/prisma-nodejs-connection#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-handlebars": "^8.0.4"
+  }
+}
